@@ -1,4 +1,4 @@
-# flutter_forget_pass_reset_with_verify
+# flutter forget pass reset with verify
 
 A new Flutter project.
 
